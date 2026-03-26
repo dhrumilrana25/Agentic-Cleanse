@@ -1,0 +1,17 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# API Keys (CRITICAL: Do not push these!)
+.env
+
+# Data and Logs
+data/
+*.csv
+workspace_cleaner.py
+langchain_debug.log
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
