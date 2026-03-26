@@ -61,11 +61,12 @@ Data Analysis: Pandas, Numpy
 
 Observability: LangSmith (Tracing & Debugging)
 
-3. Run Locally
-Bash
-streamlit run app.py
-🎓 About the Developer
-I am a Data Science Graduate Student at The University of Texas at Arlington (UTA) with a passion for building autonomous AI workflows. This project demonstrates the intersection of Software Engineering, Cybersecurity, and Large Language Model (LLM) orchestration.
+---
 
-Connect with me:
-GitHub | LinkedIn
+## 🎓 About the Developer
+I am a Data Science Graduate Student at **The University of Texas at Arlington (UTA)**. This project demonstrates the intersection of Software Engineering, Cybersecurity, and Large Language Model (LLM) orchestration.
+
+**Connect with me:**
+* 💼 [LinkedIn](https://www.linkedin.com/in/dhrumil-rana-25a774211/)
+* 📧 [Gmail](mailto:dhrumil@uta.edu)
+* 🐙 [GitHub](https://github.com/dhrumilrana25)
